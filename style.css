@@ -18,7 +18,7 @@ body {
     max-width: 1445px;
     min-height: 900px;
     background-color: var(--light-pink);
-    background-image: url('/images/background-pattern-desktop.svg');
+    background-image: url('./images/background-pattern-desktop.svg');
     background-size: 1445px 320px;
     background-repeat: no-repeat;
     background-position: top;
